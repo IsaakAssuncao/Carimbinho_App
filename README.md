@@ -10,31 +10,7 @@ Desenvolvido em DART + Flutter
 - **[Estrutura Modular](#estrutura-modular)**  
 - **[Pilares do Modular](#pilares-do-modular)**  
   - [Exemplos](#exemplos)
-  
-- **[Começando com o Modular](#getting-started-with-modular)**
-  - [Instalação](#instalação)
-  - [Usando em um novo projeto](#usando-em-um-novo-projeto)
-  - [Adicionando Rotas](#adicionando-rotas)
-  - [Rotas dinâmicas](#rotas-dinâmicas)
-  - [Proteção de Rotas](#proteção-de-rotas)
-  - [Animação para Transição de Rota](#animação-para-transição-de-rota)
-  - [Agrupando rotas](#agrupando-rotas)
-  - [Rotas na url com Flutter Web](#rotas-na-url-com-flutter-web)
-  - [Injeção de dependências](#injeção-de-dependências)
-  - [Recuperando na view usando injeção](#recuperando-na-view-usando-injeção)
-
-- **[Usando Modular widgets para recuperar suas classes](#usando-Modular-widgets-para-recuperar-suas-classes)**
-  - [ModularState](#modularstate)
-  - [Consumindo uma Classe ChangeNotifier](#consumindo-uma-classe-changenotifier)
-  - [Criando Módulos Filhos](#criando-módulos-filhos)
-  - [WidgetModule](#widgetmodule)
-  - [RouterOutlet](#routeroutlet)
-  - [Lazy Loading](#lazy-loading)
-  - [Testes Unitários](#testes-unitários)
-  - [DebugMode](#debugmode)
-
-- **[Roadmap](#roadmap)**
-- **[Funcionalidades e Bugs](#funcionalidades-e-bugs)**
+ 
 
 ## O que é o Flutter Modular?
 
